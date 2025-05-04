@@ -82,3 +82,5 @@ while True:
          
     pygame.display.update()
     FramePerSec.tick(FPS)
+
+# https://coderslegacy.com/python/python-pygame-tutorial/ 
